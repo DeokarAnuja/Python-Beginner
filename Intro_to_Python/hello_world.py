@@ -2,4 +2,4 @@
 """ 
 First Python Program
 """
-print("Welcome to Python Programming")
+print("World of Python")
