@@ -8,6 +8,7 @@
     Return:
         class type of the argument
 """
+# Basic datatypes
 # x holding 'int' type of data
 x = 10
 print(type(x))
