@@ -75,8 +75,8 @@ print(f"id(c):{id(c)}")  # same as id(a)
 c = c+10
 print(f"id(c):{id(c)}")  # new id
 
-# is not 
-# oppposite of is operator  
+# is not
+# oppposite of is operator
 print(f"a is not a : {a is not a }")
 print(f"a is not b : {a is not b }")
 
@@ -88,12 +88,12 @@ print(f"'x' in 'xyz':{'x' not in 'xyz'}")
 
 
 # Bitwise operators
-a=10
-b=2
+a = 10
+b = 2
 print(f"\n{'='*10}Bitwise operators{'='*10}")
-print(f"Bitwise AND: a & b {a&b}")
-print(f"Bitwise OR: a | b {a|b}")
-print(f"Bitwise NOT: ~ a  {~a}")
-print(f"Bitwise XOR: a ^ b {a^b}")
-print(f"Bitwise Right shift: a >> 1 {a>>1}")
-print(f"Bitwise left shift:a << 1 {a<<1}")
+print(f"Bitwise AND: a & b = {a&b}")
+print(f"Bitwise OR: a | b = {a|b}")
+print(f"Bitwise NOT: ~ a = {~a}")
+print(f"Bitwise XOR: a ^ b ={a^b}")
+print(f"Bitwise Right shift: a >> 1 = {a>>1}")
+print(f"Bitwise left shift:a << 1 = {a<<1}")
