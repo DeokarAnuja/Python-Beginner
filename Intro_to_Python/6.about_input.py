@@ -1,4 +1,6 @@
 """
+        Program to demonstrate use of input() functions
+
         input():
             Used to accept data from keyboard.
         Syntax:
