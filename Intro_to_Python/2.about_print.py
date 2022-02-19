@@ -1,4 +1,6 @@
 """
+    Program to demonstrate use of print()
+    
     print()-prints to standard output
     
     Syntax:

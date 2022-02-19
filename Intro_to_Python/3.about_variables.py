@@ -3,6 +3,7 @@
         Names given to computer memory locations.
         Used to store values.
         Value stored in variable is changeable.
+        Type of variable is changeable
         
     Rules:
         Must start with a letter or the underscore character.
