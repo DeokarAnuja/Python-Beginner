@@ -33,12 +33,12 @@ for char in "Python":
     print(char, end="\t")
 
 print("\n")
-#Loops can also have else blocks
-i=1
-while i<10:
+# Loops can also have else blocks
+i = 1
+while i < 10:
     print(i, end="\t")
-    i += 1 
-else: #Executed when condition is false
+    i += 1
+else:  # Executed when condition is false
     print("\nCompleted")
 
 for i in range(1, 10, 1):
