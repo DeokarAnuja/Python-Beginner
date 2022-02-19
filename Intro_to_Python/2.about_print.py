@@ -14,6 +14,8 @@
     Return type:None
         
 """
+from __future__ import print_function
+from time import sleep
 
 # print() without any arguments
 print()
@@ -35,3 +37,21 @@ print(1, 2, 3, sep=":", end=".\n")
 
 # print() using f-string
 print(f"Value of 3*2 is {3*2}")
+
+# print() with File Parameter
+print('Text from Python print()', file=open('print_out.txt', 'a'))
+
+
+# print()  with flush parameter
+# By default value of flush is False
+
+# Execution will wait for 5 seconds and then output
+print('Flush is set to False.Data will be buffered.', end='')
+sleep(5)
+
+# Execution will print first and then wait 5 seconds
+print('Flush is set to True.Data will be forcibly printed to ouput.', end='', flush=True)
+sleep(5)
+
+
+print('This program demonstrate use of print()')
