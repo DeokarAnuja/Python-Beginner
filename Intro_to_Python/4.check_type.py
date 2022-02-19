@@ -32,3 +32,6 @@ print(type(x))
 # None type
 x = None
 print(type(x))
+
+
+# Have you noticed we have used same variable name to store differnt tpe of data at different instance of time.
