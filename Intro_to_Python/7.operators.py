@@ -3,6 +3,9 @@
     Assignment operators    +=,-=
     Comparison operators    >,<,>=,<=,==,!=
     Logical operators       and,or,not
+    Identity operators      is,is not
+    Memebership Operators   in, not in
+    Bitwise operators       &,|,~,^,>>,<<
 """
 
 # Arithmetic operators
