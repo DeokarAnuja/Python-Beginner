@@ -2,14 +2,14 @@
 Python Beginner Programs and Projects
 
 ## Programs 
-1.Hello World
-2.print() and its parameter
-3.Use of variables and assignments
-4.Data type and type() function
-5.Type casting [int(),float(),str(),bool(),complex()]
-6.inpu()
-7.Operators
-8.Conditional [if,if else,elif]
-9.Loops
-10.Control statements(break,pass,continue)
-11.Index and slice
+1.Hello World  <br>
+2.print() and its parameter <br>
+3.Use of variables and assignments <br>
+4.Data type and type() function <br>
+5.Type casting [int(),float(),str(),bool(),complex()] <br>
+6.input()<br>
+7.Operators<br>
+8.Conditional [if,if else,elif]<br>
+9.Loops<br>
+10.Control statements(break,pass,continue)<br>
+11.Index and slice<br>
