@@ -14,6 +14,7 @@ while i < 10:  # condition
 
 print("\n")  # newline
 
+#do while
 i = 1
 while True:  # Infinte loop
     print(i, end="\t")

@@ -31,7 +31,7 @@ def add(a, b):
 
 # main
 if __name__ == "__main__":
-    welcome_msg()
+    welcome_msg()           # function call
     with_parameter("Aditi")
     msg = with_return()
     print(msg)
